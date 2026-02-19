@@ -49,3 +49,4 @@ II. Könyvtárfüggvények használata nélkül, illetve halmazkifejezéseket al
 
   lista_ = zip ['a'..'z'] [1..26]
   ```
+**Megoldott feladatok:**
